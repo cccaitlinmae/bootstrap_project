@@ -1,0 +1,14 @@
+h2 {
+  font-size: 3em;
+}
+
+.jumbotron {
+  height: 1000px;
+  background-image: url(img/cactus.jpg);
+  background-size: cover;
+  color: #2b2c2d;
+}
+
+hr {
+  color: #808080;
+}

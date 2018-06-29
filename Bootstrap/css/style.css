@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+@font-face{
+  font-family:font1;
+  src: url(font/Muli-Bold.ttf);
+}
+
+@font-face{
+  font-family:font2;
+  src: url(font/Rubik-Regular.ttf);
+}
+
+body{
+  margin: 0 auto;
+  display: block;
+  background-image: url(img/plant.jpeg);
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+header img {
+  padding-top: 20px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+section h2 {
+  padding-top: 10px;
+  font-family: font1;
+}
+section p {
+  padding-top: 10px;
+  font-family: font2;
+}
+
+section {
+    background-color: #e9e9e9;
+    background-color: rgba(217, 217, 217, 0.7);
+}
+
+aside {
+    background-color: #e9e9e9;
+    background-color: rgba(217, 217, 217, 0.7);
+}
+
+aside h4 {
+  padding-top: 10px;
+  font-family: font1;
+}
+footer {
+  margin-top: 10px;
+  width:100%;
+  background-color: #e9e9e9;
+  background-color: rgba(217, 217, 217, 0.7);
+}
+
+footer h6 {
+  margin-top: 12px;
+  font-family: font2;
+}

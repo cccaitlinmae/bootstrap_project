@@ -1,0 +1,70 @@
+@charset "utf-8";
+
+body{
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.slide1 {
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+#navigation{
+  color: #e9e9e9;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  font-family: 'Kanit', sans-serif;
+  font-size: 7em;
+  margin-bottom:400px;
+}
+
+p{
+  font-family: 'Lato', sans-serif;
+}
+
+h2 {
+  font-family: 'Patua One', cursive;
+}
+
+#section2{
+  margin-top: 70px;
+  margin-bottom: 70px;;
+}
+
+#section2 img{
+  border-radius: 400px;
+}
+
+#section3 .jumbotron  {
+  width:100%;
+  padding-top: 80px;
+  height: 500px;
+  background-image: url(img/empty.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  color: #ffffff;
+}
+
+#accordion {
+  background-image: url(img/cactus.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+footer{
+  background-color: #343a40;
+  padding:10px;
+  color: #e9e9e9;
+  text-align:center;
+}
+
+footer, p{
+  padding-top:12px;
+}
